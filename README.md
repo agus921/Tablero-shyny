@@ -1,2 +1,0 @@
-# tablero-shyny
-Tablero Shiny
